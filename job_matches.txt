@@ -1,0 +1,74 @@
+
+================================================================================
+TOP JOB MATCHES
+================================================================================
+
+========================================
+MATCH #1 (Score: 25.7%)
+========================================
+Company: Snapchat
+Title: Human Resources Manager
+Category: Employee Relations Specialist
+Experience: 0 to 15 Years
+Qualifications: M.Com
+Location: Zagreb, Croatia
+Work Type: Full-Time
+
+Description: Employee Relations Specialists focus on maintaining positive relationships between employees and the organization. They address workplace issues, conduct investigations, mediate conflicts, and promote a healthy and productive work environment.
+----------------------------------------
+
+========================================
+MATCH #2 (Score: 25.5%)
+========================================
+Company: NVIDIA
+Title: Human Resources Manager
+Category: Employee Relations Specialist
+Experience: 1 to 9 Years
+Qualifications: M.Com
+Location: BogotÃ¡, Colombia
+Work Type: Full-Time
+
+Description: Employee Relations Specialists focus on maintaining positive relationships between employees and the organization. They address workplace issues, conduct investigations, mediate conflicts, and promote a healthy and productive work environment.
+----------------------------------------
+
+========================================
+MATCH #3 (Score: 24.6%)
+========================================
+Company: Samsung
+Title: Human Resources Manager
+Category: Employee Relations Specialist
+Experience: 2 to 9 Years
+Qualifications: B.Tech
+Location: Kigali, Rwanda
+Work Type: Intern
+
+Description: Employee Relations Specialists focus on maintaining positive relationships between employees and the organization. They address workplace issues, conduct investigations, mediate conflicts, and promote a healthy and productive work environment.
+----------------------------------------
+
+========================================
+MATCH #4 (Score: 23.1%)
+========================================
+Company: Facebook
+Title: Human Resources Manager
+Category: Talent Acquisition Manager
+Experience: 2 to 12 Years
+Qualifications: MCA
+Location: Pretoria, South Africa
+Work Type: Part-Time
+
+Description: Talent Acquisition Managers oversee the recruitment and hiring process. They develop recruitment strategies, source candidates, conduct interviews, and collaborate with hiring managers to attract and hire qualified talent to meet the organizations staffing needs.
+----------------------------------------
+
+========================================
+MATCH #5 (Score: 22.9%)
+========================================
+Company: Netflix
+Title: Human Resources Manager
+Category: Talent Acquisition Manager
+Experience: 1 to 8 Years
+Qualifications: MCA
+Location: Djibouti (city), Djibouti
+Work Type: Part-Time
+
+Description: Talent Acquisition Managers oversee the recruitment and hiring process. They develop recruitment strategies, source candidates, conduct interviews, and collaborate with hiring managers to attract and hire qualified talent to meet the organizations staffing needs.
+----------------------------------------
